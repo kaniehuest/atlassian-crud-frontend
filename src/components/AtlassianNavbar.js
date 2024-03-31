@@ -12,7 +12,7 @@ import Button from '@atlaskit/button'
 
 const AtlassianProductHome = () => (
   <Link to={"/"}>
-    <img src="./idealc.png" className="img-fluid mr-2" height="10" width="200" alt="logo"></img>
+    <img src="./logo192.png" className="img-fluid mr-2" height="10" width="200" alt="logo"></img>
   </Link>
 );
 
