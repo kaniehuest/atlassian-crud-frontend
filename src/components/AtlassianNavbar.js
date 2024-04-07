@@ -11,8 +11,8 @@ import {
 import Button from '@atlaskit/button'
 
 const AtlassianProductHome = () => (
-  <Link to={"/"}>
-    <img src="./logo192.png" className="img-fluid mr-2" height="10" width="200" alt="logo"></img>
+  <Link to={"/"} style={{textDecoration: "none"}}>
+    <h3 className='m-0 p-0'>ATLASSIAN CRUD</h3>
   </Link>
 );
 
