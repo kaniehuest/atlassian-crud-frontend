@@ -12,7 +12,7 @@ import Button from '@atlaskit/button'
 
 const AtlassianProductHome = () => (
   <Link to={"/"} style={{textDecoration: "none"}}>
-    <h3 className='m-0 p-0'>ATLASSIAN CRUD</h3>
+    <h3 className='m-0 p-0'>ATLASSIAN CRUD2</h3>
   </Link>
 );
 
